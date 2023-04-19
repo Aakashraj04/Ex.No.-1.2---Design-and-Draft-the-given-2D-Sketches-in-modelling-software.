@@ -37,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![Ex-1 2](https://user-images.githubusercontent.com/121117266/229869363-32d0c0d1-f230-405f-b12e-7edfc8a8f695.png)
+
+![Screenshot 2023-04-19 112918](https://user-images.githubusercontent.com/121117266/232980333-0d13e0da-de0a-40c7-a803-359f972e67ba.png)
 
 
  
